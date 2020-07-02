@@ -1,4 +1,4 @@
-# EFI-x570-ace-3950X-RX-5700XT-bigSur
+# EFI-X570-ace-3950X-RX-5700XT-bigSur
 ```
 hdid -nomount "[..path dmg...]/macOS_11.dmg"
 diskutil list
