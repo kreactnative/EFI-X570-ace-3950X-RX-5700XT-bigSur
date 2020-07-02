@@ -1,0 +1,1 @@
+# EFI-x570-ace-3950X-RX-5700XT-bigSur
